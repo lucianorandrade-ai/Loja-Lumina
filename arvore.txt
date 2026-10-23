@@ -1,0 +1,23 @@
+loja-lumina/
+├── app.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── .env.example
+├── templates/
+│   ├── index.html
+│   ├── carrinho.html
+│   └── checkout.html
+├── static/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+├── data/
+│   └── products.json
+├── notebooks/              # Opcional: experimentos no Colab
+├── tests/                  # Etapa posterior
+│   └── test_app.py
+└── .vscode/                # Opcional
+    └── extensions.json
